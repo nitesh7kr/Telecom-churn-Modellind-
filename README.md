@@ -34,7 +34,5 @@ Benefits
 <li>scatter</li>
 <li>Training and Evaluating a K-Nearest Neighbors (KNN) Classifier</li>
 
-![Screenshot 2024-07-29 232345](https://github.com/user-attachments/assets/a8f202e2-1029-43b9-90fd-4f329ee27c20)
-
+![[Screenshot 2024-07-29 232345](https://github.com/nitesh7kr/Telecom-churn-Modellind-/blob/main/Screenshot%202025-05-23%20114112.png)
 ![Screenshot 2024-07-31 161806](https://github.com/user-attachments/assets/5bc7e1f5-b1f1-4405-9be1-dd1bc20b7f0d)
-
